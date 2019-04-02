@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/ndkTest.dir/source/sinple1/main.c.o CMakeFiles/ndkTest.dir/source/sinple1/hello.c.o CMakeFiles/ndkTest.dir/source/simple2/main1.c.o CMakeFiles/ndkTest.dir/source/simple2/tool.c.o  -o ndkTest 

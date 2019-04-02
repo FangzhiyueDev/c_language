@@ -1,0 +1,3 @@
+/media/fang/codeAndNote/developeDemo/C/ndkTest/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/media/fang/codeAndNote/developeDemo/C/ndkTest/cmake-build-debug/CMakeFiles/ndkTest.dir
+/media/fang/codeAndNote/developeDemo/C/ndkTest/cmake-build-debug/CMakeFiles/edit_cache.dir

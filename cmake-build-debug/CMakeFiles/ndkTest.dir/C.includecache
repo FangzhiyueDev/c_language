@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/fang/Android/Sdk/ndk-bundle/sysroot/usr/include/android/log.h
+stdarg.h
+-
+
+/media/fang/codeAndNote/developeDemo/C/ndkTest/source/simple2/main1.c
+stdio.h
+-
+tool.h
+/media/fang/codeAndNote/developeDemo/C/ndkTest/source/simple2/tool.h
+/home/fang/Android/Sdk/ndk-bundle/sysroot/usr/include/android/log.h
+-
+
+/media/fang/codeAndNote/developeDemo/C/ndkTest/source/simple2/tool.h
+
